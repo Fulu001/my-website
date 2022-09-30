@@ -66,8 +66,8 @@ h4, h5, h6 {
   font-weight: 600;
   line-height: 1.25;
   margin-top: 1em;
-  color: yellow;
   margin-bottom: .5em;
+  background: aqua;
   scroll-margin: calc(var(--nav-height) + 1em);
 }
 
